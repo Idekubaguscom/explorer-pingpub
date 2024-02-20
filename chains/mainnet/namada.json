@@ -1,7 +1,7 @@
 {
     "chain_name": "namada",
     "api": [
-        {"provider": "idekubagus", "address": "https://api.namada.idekubagus.com"}
+        {"provider": "idekubagus", "address": "http://213.35.119.108:2317"}
     ],
     "rpc": [
         {"provider": "idekubagus", "address": "https://rpc.namada.idekubagus.com"}
